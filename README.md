@@ -10,3 +10,6 @@ Sample output:
 
 ### [Complex](Complex)
 A complex-function grapher.
+
+Sample output:
+![Sample output of complex grapher](Complex/sample.png)
